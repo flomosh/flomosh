@@ -1,3 +1,2 @@
-- Hi, I’m @flomosh, final year science student in University of Greenwich.
 - I’m currently working on Smart City Development with IOT implementations and Artificial Intelligence in Zambia, East Africa.
-- Do reach me at ryanlim@smartcity.asia if you wish to work on something together.
+- Do reach me at ryan@saltytofu.com if you wish to work on something together.
